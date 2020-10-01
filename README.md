@@ -1,2 +1,2 @@
 # cafe
-A small cafe website based on Django
+A small cafe website based on Django.
